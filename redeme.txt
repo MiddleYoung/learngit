@@ -7,3 +7,5 @@ git is free software distributed
 git has a mutable index called staged
 git tracks changes.
 git tracks changes of files;
+My stupid bad is still SVN;:
+
