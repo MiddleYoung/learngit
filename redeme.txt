@@ -3,5 +3,5 @@ Git is free software.
 dfdkjkdfj
 dfgh
 git is distributed version control system.
-git is free software distributed under the GPL.
-
+git is free software distributed
+git has a mutable index called staged
